@@ -298,9 +298,9 @@ void consulta()
 		cout << "         CONSULTA" << endl;
 		cout << "-------------------------------" << endl;
 
-		cout << "1. Consultar livros" << endl
-			<< "2. Consultar clientes" << endl
-			<< "3. Consultar alugueis" << endl
+		cout << "1. Consultar livro" << endl
+			<< "2. Consultar cliente" << endl
+			<< "3. Consultar aluguel" << endl
 			<< "0. Voltar " << endl
 			<< "Digite uma das opcoes acima: " << endl;
 		cin >> opcao;
