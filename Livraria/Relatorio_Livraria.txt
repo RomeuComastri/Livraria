@@ -1,0 +1,42 @@
+-----------------------------
+
+   LIVROS
+
+-----------------------------
+Identificacao: 2
+Titulo: 2
+Autor: 2
+Genero: 2
+Quantidade de alugueis: 0
+Disponibilidade: Disponivel 
+-----------------------------
+Identificacao: 3
+Titulo: 3
+Autor: 3
+Genero: 3
+Quantidade de alugueis: 0
+Disponibilidade: Disponivel 
+-----------------------------
+
+    Clientes
+
+-----------------------------
+CPF: 1
+Nome: 1
+Quantidade de alugueis: 0
+-----------------------------
+CPF: 3
+Nome: 3
+Quantidade de alugueis: 1
+-----------------------------
+
+    Alugueis
+
+-----------------------------
+Identificacao: 1
+Id livro: 1
+CPF cliente: 3
+Data do aluguel: 27/11/2024
+Data de devolucao: 4/12/2024
+Devolucao: Devolvido 
+-----------------------------
